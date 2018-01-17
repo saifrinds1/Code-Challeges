@@ -1,5 +1,7 @@
 
-
+//Author Saifudeen Masood.
+//github: saifrinds1
+//Email: saifrinds1@gmail.com
 
 import java.util.Scanner;
 import java.util.concurrent.TimeUnit;
